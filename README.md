@@ -4,3 +4,4 @@
 - telegraf-bot with telegraf
 -hello-bot with telegraf
 -echo-bot with telegraf
+-random-bot with telegraf
