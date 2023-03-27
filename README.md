@@ -6,3 +6,4 @@
 -echo-bot with telegraf
 -random-bot with telegraf
 -cat-bot with telegraf
+-weather-bot with telegraf
